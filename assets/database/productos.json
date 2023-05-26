@@ -275,7 +275,7 @@
     "sabores": []
   },
   {
-    "categoria": "Bolsos",
+    "categoria": "Otros",
     "tipo": "",
     "producto": "Bolso Térmico",
     "unidadesPorPaquete": 1,
@@ -284,7 +284,7 @@
     "sabores": []
   },
   {
-    "categoria": "Sirop",
+    "categoria": "Otros",
     "tipo": "Fresa",
     "producto": "Sirope",
     "unidadesPorPaquete": 1,
@@ -293,7 +293,7 @@
     "sabores": []
   },
   {
-    "categoria": "Sirop",
+    "categoria": "Otros",
     "tipo": "Chocolate",
     "producto": "Sirope",
     "unidadesPorPaquete": 1,
@@ -302,7 +302,7 @@
     "sabores": []
   },
   {
-    "categoria": "Sirop",
+    "categoria": "Otros",
     "tipo": "Dulce de Leche",
     "producto": "Sirope",
     "unidadesPorPaquete": 1,
@@ -311,7 +311,7 @@
     "sabores": []
   },
   {
-    "categoria": "Sirop",
+    "categoria": "Otros",
     "tipo": "Capita Magica",
     "producto": "Sirope",
     "unidadesPorPaquete": 1,
@@ -320,7 +320,7 @@
     "sabores": []
   },
   {
-    "categoria": "Galletas",
+    "categoria": "Otros",
     "tipo": "",
     "producto": "Galleta de Barquilla Tradicional",
     "unidadesPorPaquete": 1,
@@ -329,7 +329,7 @@
     "sabores": []
   },
   {
-    "categoria": "Galletas",
+    "categoria": "Otros",
     "tipo": "",
     "producto": "Galleta de Mini Barquillón",
     "unidadesPorPaquete": 45,
@@ -338,7 +338,7 @@
     "sabores": []
   },
   {
-    "categoria": "Galletas",
+    "categoria": "Otros",
     "tipo": "",
     "producto": "Cesta de Galleta",
     "unidadesPorPaquete": 32,
