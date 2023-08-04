@@ -5,7 +5,7 @@
     "producto": "Tinitón",
     "unidadesPorPaquete": 6,
     "precioCompra": 0.26,
-    "precioVenta": 0.38,
+    "precioVenta": 0.35,
     "sabores": [
       "Mantecado y Chocolate",
       "Mantecado y Fresa",
@@ -19,7 +19,7 @@
     "producto": "Sorbete",
     "unidadesPorPaquete": 6,
     "precioCompra": 0.30,
-    "precioVenta": 0.38,
+    "precioVenta": 0.40,
     "sabores": [
       "Mango",
       "Parchita",
@@ -33,7 +33,7 @@
     "producto": "Batiboom",
     "unidadesPorPaquete": 8,
     "precioCompra": 0.25,
-    "precioVenta": 0.38,
+    "precioVenta": 0.34,
     "sabores": [
       "Uva",
       "Uva y fresa",
@@ -46,7 +46,7 @@
     "producto": "Barquilla",
     "unidadesPorPaquete": 5,
     "precioCompra": 0.35,
-    "precioVenta": 0.46,
+    "precioVenta": 0.47,
     "sabores": [
       "Mantecado",
       "Fresa",
@@ -59,6 +59,15 @@
     "producto": "Swing",
     "unidadesPorPaquete": 6,
     "precioCompra": 0.36,
+    "precioVenta": 0.48,
+    "sabores": []
+  },
+  {
+    "categoria": "Impulso",
+    "tipo": "",
+    "producto": "Peppa Pig",
+    "unidadesPorPaquete": 5,
+    "precioCompra": 0.35,
     "precioVenta": 0.46,
     "sabores": []
   },
@@ -68,7 +77,7 @@
     "producto": "Sundae",
     "unidadesPorPaquete": 6,
     "precioCompra": 0.30,
-    "precioVenta": 0.42,
+    "precioVenta": 0.40,
     "sabores": [
       "Sundae de Chocolate",
       "Sundae de Fresa",
@@ -78,10 +87,10 @@
   {
     "categoria": "Impulso",
     "tipo": "",
-    "producto": "Doble Chocolate",
+    "producto": "Choco Pop",
     "unidadesPorPaquete": 6,
     "precioCompra": 0.32,
-    "precioVenta": 0.42,
+    "precioVenta": 0.43,
     "sabores": []
   },
   {
@@ -90,7 +99,7 @@
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
     "precioCompra": 0.32,
-    "precioVenta": 0.48,
+    "precioVenta": 0.43,
     "sabores": []
   },
   {
@@ -99,7 +108,7 @@
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
     "precioCompra": 0.35,
-    "precioVenta": 0.48,
+    "precioVenta": 0.47,
     "sabores": []
   },
   {
@@ -108,7 +117,7 @@
     "producto": "Medio Litro",
     "unidadesPorPaquete": 1,
     "precioCompra": 1.25,
-    "precioVenta": 1.5,
+    "precioVenta": 1.65,
     "sabores": [
       "Mantecado",
       "Chocolate",
@@ -125,7 +134,7 @@
     "producto": "Medio Litro",
     "unidadesPorPaquete": 1,
     "precioCompra": 1.45,
-    "precioVenta": 1.8,
+    "precioVenta": 1.96,
     "sabores": [
       "Galleta de Chocolate",
       "Brownie",
@@ -139,7 +148,7 @@
     "producto": "Litro",
     "unidadesPorPaquete": 1,
     "precioCompra": 2.1,
-    "precioVenta": 2.6,
+    "precioVenta": 2.78,
     "sabores": [
       "Mantecado",
       "Chocolate",
@@ -156,7 +165,7 @@
     "producto": "Litro",
     "unidadesPorPaquete": 1,
     "precioCompra": 2.4,
-    "precioVenta": 2.9,
+    "precioVenta": 3.19,
     "sabores": [
       "Choco Brownie",
       "Café",
@@ -180,7 +189,7 @@
     "producto": "Napolitano",
     "unidadesPorPaquete": 1,
     "precioCompra": 4.4,
-    "precioVenta": 5.5,
+    "precioVenta": 5.67,
     "sabores": []
   },
   {
@@ -189,7 +198,7 @@
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 6.75,
-    "precioVenta": 9.0,
+    "precioVenta": 9.06,
     "sabores": [
       "Mantecado",
       "Fresa",
@@ -207,7 +216,7 @@
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 7.4,
-    "precioVenta": 10.0,
+    "precioVenta": 9.89,
     "sabores": [
       "Chocolate",
       "Coco",
@@ -225,7 +234,7 @@
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 7.9,
-    "precioVenta": 10.5,
+    "precioVenta": 10.61,
     "sabores": [
       "Mantechip",
       "Chocochip",
@@ -239,11 +248,11 @@
   },
   {
     "categoria": "Recipientes",
-    "tipo": "Super",
+    "tipo": "Especiales",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 8.75,
-    "precioVenta": 11.5,
+    "precioVenta": 11.74,
     "sabores": [
       "Stracciatella",
       "Brownie",
@@ -266,8 +275,8 @@
     "tipo": "",
     "producto": "Afiche Publicitario",
     "unidadesPorPaquete": 1,
-    "precioCompra": 0,
-    "precioVenta": 0,
+    "precioCompra": 0.5,
+    "precioVenta": 0.5,
     "sabores": []
   },
   {
@@ -328,7 +337,7 @@
     "categoria": "Otros",
     "tipo": "",
     "producto": "Galleta de Barquilla Tradicional",
-    "unidadesPorPaquete": 50,
+    "unidadesPorPaquete": 1,
     "precioCompra": 6.5,
     "precioVenta": 8,
     "sabores": []
@@ -337,7 +346,7 @@
     "categoria": "Otros",
     "tipo": "",
     "producto": "Galleta de Mini Barquillón",
-    "unidadesPorPaquete": 45,
+    "unidadesPorPaquete": 1,
     "precioCompra": 14.2965,
     "precioVenta": 16.3,
     "sabores": []
@@ -346,7 +355,7 @@
     "categoria": "Otros",
     "tipo": "",
     "producto": "Cesta de Galleta",
-    "unidadesPorPaquete": 56,
+    "unidadesPorPaquete": 1,
     "precioCompra": 16.8952,
     "precioVenta": 19.38,
     "sabores": []
