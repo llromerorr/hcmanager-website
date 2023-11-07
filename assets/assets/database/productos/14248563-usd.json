@@ -16,6 +16,20 @@
   {
     "categoria": "Impulso",
     "tipo": "",
+    "producto": "Extremo",
+    "unidadesPorPaquete": 150,
+    "precioCompra": 0.13,
+    "precioVenta": 0.18,
+    "sabores": [
+      "Mantecado y Chocolate",
+      "Mantecado y Fresa",
+      "Mantecado y Naranja",
+      "Chocolate y Fresa"
+    ]
+  },
+  {
+    "categoria": "Impulso",
+    "tipo": "",
     "producto": "Sorbete",
     "unidadesPorPaquete": 6,
     "precioCompra": 0.30,
@@ -46,8 +60,8 @@
     "tipo": "",
     "producto": "Barquilla",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.37,
-    "precioVenta": 0.50,
+    "precioCompra": 0.38,
+    "precioVenta": 0.52,
     "sabores": [
       "Mantecado",
       "Fresa",
@@ -68,8 +82,8 @@
     "tipo": "Clasico",
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.36,
-    "precioVenta": 0.49,
+    "precioCompra": 0.40,
+    "precioVenta": 0.54,
     "sabores": []
   },
   {
@@ -77,8 +91,8 @@
     "tipo": "Crocante",
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.40,
-    "precioVenta": 0.54,
+    "precioCompra": 0.44,
+    "precioVenta": 0.59,
     "sabores": []
   },
   {
@@ -86,8 +100,8 @@
     "tipo": "",
     "producto": "Peppi",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.36,
-    "precioVenta": 0.49,
+    "precioCompra": 0.40,
+    "precioVenta": 0.54,
     "sabores": []
   },
   {
@@ -242,10 +256,7 @@
       "Maní",
       "Café",
       "Parchita",
-      "Chocolate con Sirop de Chocolate",
-      "Mantechip",
-      "Chocomani",
-      "Galleta de Chocolate"
+      "Chocolate con Sirop de Chocolate"
     ]
   },
   {
