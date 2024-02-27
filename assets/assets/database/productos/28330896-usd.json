@@ -308,7 +308,7 @@
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 14.20,
-    "precioVenta": 19.20,
+    "precioVenta": 18.5,
     "sabores": [
       "Mantecado",
       "Fresa",
@@ -325,7 +325,7 @@
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 15.60,
-    "precioVenta": 21.10,
+    "precioVenta": 20.00,
     "sabores": [
       "Chocolate",
       "Mantechip",
@@ -342,7 +342,7 @@
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 16.70,
-    "precioVenta": 22.50,
+    "precioVenta": 21.00,
     "sabores": [
       "Coco",
       "Sundae de Fresa",
@@ -360,7 +360,7 @@
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 18.40,
-    "precioVenta": 24.80,
+    "precioVenta": 23.00,
     "sabores": [
       "Ron con Pasas",
       "Chocomani",
@@ -377,7 +377,7 @@
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
     "precioCompra": 21.50,
-    "precioVenta": 29.00,
+    "precioVenta": 26.00,
     "sabores": [
       "Chocobrownie",
       "Torta Barvaria"
