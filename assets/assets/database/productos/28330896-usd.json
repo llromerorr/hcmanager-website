@@ -82,7 +82,7 @@
     "tipo": "Clasico",
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.40,
+    "precioCompra": 0.41,
     "precioVenta": 0.52,
     "sabores": []
   },
@@ -91,7 +91,7 @@
     "tipo": "Crocante",
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.44,
+    "precioCompra": 0.45,
     "precioVenta": 0.56,
     "sabores": []
   },
@@ -100,7 +100,7 @@
     "tipo": "",
     "producto": "Peppi",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.40,
+    "precioCompra": 0.41,
     "precioVenta": 0.52,
     "sabores": []
   },
