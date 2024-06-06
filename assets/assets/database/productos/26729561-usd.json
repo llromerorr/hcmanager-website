@@ -76,7 +76,7 @@
     "tipo": "",
     "producto": "Swing",
     "unidadesPorPaquete": 6,
-    "precioCompra": 0.037,
+    "precioCompra": 0.37,
     "precioVenta": 0.49,
     "sabores": []
   },
@@ -86,7 +86,7 @@
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
     "precioCompra": 0.41,
-    "precioVenta": 0.050,
+    "precioVenta": 0.50,
     "sabores": []
   },
   {
