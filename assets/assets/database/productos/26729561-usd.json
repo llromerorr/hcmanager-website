@@ -216,7 +216,7 @@
     "tipo": "Clasico",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 6.75,
+    "precioCompra": 7.44,
     "precioVenta": 9.10,
     "sabores": [
       "Mantecado",
@@ -234,7 +234,7 @@
     "tipo": "Premium",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 7.40,
+    "precioCompra": 8.16,
     "precioVenta": 10.00,
     "sabores": [
       "Chocolate",
@@ -251,7 +251,7 @@
     "tipo": "Extra",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 7.90,
+    "precioCompra": 8.71,
     "precioVenta": 10.70,
     "sabores": [
       "Coco",
@@ -269,7 +269,7 @@
     "tipo": "Especial",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 8.75,
+    "precioCompra": 9.65,
     "precioVenta": 11.80,
     "sabores": [
       "Ron con Pasas",
@@ -286,7 +286,7 @@
     "tipo": "Super",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 10.20,
+    "precioCompra": 11.25,
     "precioVenta": 13.80,
     "sabores": [
       "Chocobrownie",
