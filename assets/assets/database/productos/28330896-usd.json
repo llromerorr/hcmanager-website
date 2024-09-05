@@ -4,8 +4,8 @@
     "tipo": "",
     "producto": "Tinitón",
     "unidadesPorPaquete": 6,
-    "precioCompra": 0.29,
-    "precioVenta": 0.377,
+    "precioCompra": 0.30,
+    "precioVenta": 0.39,
     "sabores": [
       "Mantecado",
       "Fresa",
@@ -21,8 +21,8 @@
     "tipo": "",
     "producto": "Extremo",
     "unidadesPorPaquete": 150,
-    "precioCompra": 0.14,
-    "precioVenta": 0.182,
+    "precioCompra": 0.15,
+    "precioVenta": 0.195,
     "sabores": [
       "Frutas tropicales",
       "Limón",
@@ -35,8 +35,8 @@
     "tipo": "",
     "producto": "Sorbete",
     "unidadesPorPaquete": 6,
-    "precioCompra": 0.33,
-    "precioVenta": 0.429,
+    "precioCompra": 0.35,
+    "precioVenta": 0.455,
     "sabores": [
       "Mango",
       "Parchita",
@@ -49,8 +49,8 @@
     "tipo": "",
     "producto": "Batiboom",
     "unidadesPorPaquete": 8,
-    "precioCompra": 0.28,
-    "precioVenta": 0.364,
+    "precioCompra": 0.29,
+    "precioVenta": 0.377,
     "sabores": [
       "Uva",
       "Uva y fresa",
@@ -63,8 +63,8 @@
     "tipo": "",
     "producto": "Barquilla",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.42,
-    "precioVenta": 0.546,
+    "precioCompra": 0.45,
+    "precioVenta": 0.585,
     "sabores": [
       "Mantecado",
       "Fresa",
@@ -74,10 +74,19 @@
   {
     "categoria": "Impulso",
     "tipo": "",
+    "producto": "Sandwich",
+    "unidadesPorPaquete": 0,
+    "precioCompra": 0,
+    "precioVenta": 0,
+    "sabores": []
+  },
+  {
+    "categoria": "Impulso",
+    "tipo": "",
     "producto": "Swing",
     "unidadesPorPaquete": 6,
-    "precioCompra": 0.42,
-    "precioVenta": 0.546,
+    "precioCompra": 0.45,
+    "precioVenta": 0.585,
     "sabores": []
   },
   {
@@ -85,8 +94,8 @@
     "tipo": "Clasico",
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.46,
-    "precioVenta": 0.598,
+    "precioCompra": 0.50,
+    "precioVenta": 0.65,
     "sabores": []
   },
   {
@@ -94,8 +103,8 @@
     "tipo": "Crocante",
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.51,
-    "precioVenta": 0.663,
+    "precioCompra": 0.54,
+    "precioVenta": 0.702,
     "sabores": []
   },
   {
@@ -103,8 +112,8 @@
     "tipo": "",
     "producto": "Peppi",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.46,
-    "precioVenta": 0.598,
+    "precioCompra": 0.50,
+    "precioVenta": 0.65,
     "sabores": []
   },
   {
@@ -112,8 +121,8 @@
     "tipo": "",
     "producto": "Sundae",
     "unidadesPorPaquete": 6,
-    "precioCompra": 0.33,
-    "precioVenta": 0.429,
+    "precioCompra": 0.35,
+    "precioVenta": 0.455,
     "sabores": [
       "Sundae de Chocolate",
       "Sundae de Fresa",
@@ -125,8 +134,8 @@
     "tipo": "",
     "producto": "Doble Chocolate",
     "unidadesPorPaquete": 6,
-    "precioCompra": 0.35,
-    "precioVenta": 0.455,
+    "precioCompra": 0.37,
+    "precioVenta": 0.481,
     "sabores": []
   },
   {
@@ -134,8 +143,8 @@
     "tipo": "Clasico",
     "producto": "Medio Litro",
     "unidadesPorPaquete": 1,
-    "precioCompra": 1.38,
-    "precioVenta": 1.794,
+    "precioCompra": 1.45,
+    "precioVenta": 1.885,
     "sabores": [
       "Mantecado",
       "Chocolate",
@@ -151,8 +160,8 @@
     "tipo": "Premium",
     "producto": "Medio Litro",
     "unidadesPorPaquete": 1,
-    "precioCompra": 1.60,
-    "precioVenta": 2.08,
+    "precioCompra": 1.68,
+    "precioVenta": 2.184,
     "sabores": [
       "Galleta de Chocolate",
       "Ron con Pasas",
@@ -165,8 +174,8 @@
     "tipo": "Clasico",
     "producto": "Litro",
     "unidadesPorPaquete": 1,
-    "precioCompra": 2.32,
-    "precioVenta": 3.016,
+    "precioCompra": 2.43,
+    "precioVenta": 3.159,
     "sabores": [
       "Chocolate",
       "Mantecado",
@@ -182,8 +191,8 @@
     "tipo": "Premium",
     "producto": "Litro",
     "unidadesPorPaquete": 1,
-    "precioCompra": 2.65,
-    "precioVenta": 3.445,
+    "precioCompra": 2.78,
+    "precioVenta": 3.614,
     "sabores": [
       "Choco. Sirop Choco.",
       "Fresa con Sirope de Fresa",
@@ -207,8 +216,8 @@
     "tipo": "Extra",
     "producto": "Litro",
     "unidadesPorPaquete": 1,
-    "precioCompra": 3.31,
-    "precioVenta": 4.303,
+    "precioCompra": 3.47,
+    "precioVenta": 4.511,
     "sabores": [
       "Torta Barvaria",
       "Pistacho"
@@ -219,8 +228,8 @@
     "tipo": "Napolitano",
     "producto": "Napolitano",
     "unidadesPorPaquete": 1,
-    "precioCompra": 4.85,
-    "precioVenta": 6.305,
+    "precioCompra": 5.09,
+    "precioVenta": 6.617,
     "sabores": []
   },
   {
@@ -228,8 +237,8 @@
     "tipo": "Clasico",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 7.44,
-    "precioVenta": 9.672,
+    "precioCompra": 7.81,
+    "precioVenta": 10.153,
     "sabores": [
       "Mantecado",
       "Fresa",
@@ -246,8 +255,8 @@
     "tipo": "Premium",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 8.16,
-    "precioVenta": 10.608,
+    "precioCompra": 8.57,
+    "precioVenta": 11.141,
     "sabores": [
       "Chocolate",
       "Mantechip",
@@ -263,8 +272,8 @@
     "tipo": "Extra",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 8.71,
-    "precioVenta": 11.323,
+    "precioCompra": 9.15,
+    "precioVenta": 11.895,
     "sabores": [
       "Coco",
       "Sundae de Fresa",
@@ -281,8 +290,8 @@
     "tipo": "Especial",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 9.65,
-    "precioVenta": 12.545,
+    "precioCompra": 10.13,
+    "precioVenta": 13.169,
     "sabores": [
       "Ron con Pasas",
       "Chocomani",
@@ -298,8 +307,8 @@
     "tipo": "Super",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 11.25,
-    "precioVenta": 14.625,
+    "precioCompra": 11.81,
+    "precioVenta": 15.353,
     "sabores": [
       "Chocobrownie",
       "Sorbete de Parchita",
@@ -313,8 +322,8 @@
     "tipo": "Clasico",
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 15.66,
-    "precioVenta": 20.35,
+    "precioCompra": 16.44,
+    "precioVenta": 21.372,
     "sabores": [
       "Mantecado",
       "Fresa",
@@ -330,8 +339,8 @@
     "tipo": "Premium",
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 17.20,
-    "precioVenta": 22.36,
+    "precioCompra": 18.06,
+    "precioVenta": 23.478,
     "sabores": [
       "Chocolate",
       "Mantechip",
@@ -347,8 +356,8 @@
     "tipo": "Extra",
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 18.41,
-    "precioVenta": 23.93,
+    "precioCompra": 19.33,
+    "precioVenta": 25.129,
     "sabores": [
       "Coco",
       "Sundae de Fresa",
@@ -365,8 +374,8 @@
     "tipo": "Especiales",
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 20.29,
-    "precioVenta": 26.37,
+    "precioCompra": 21.30,
+    "precioVenta": 27.69,
     "sabores": [
       "Ron con Pasas",
       "Chocomani",
@@ -382,8 +391,8 @@
     "tipo": "Super",
     "producto": "10 Litros",
     "unidadesPorPaquete": 1,
-    "precioCompra": 23.70,
-    "precioVenta": 30.81,
+    "precioCompra": 24.89,
+    "precioVenta": 32.35,
     "sabores": [
       "Chocobrownie",
       "Torta Barvaria"
