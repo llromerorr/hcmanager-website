@@ -75,9 +75,9 @@
     "categoria": "Impulso",
     "tipo": "",
     "producto": "Sandwich",
-    "unidadesPorPaquete": 0,
-    "precioCompra": 0,
-    "precioVenta": 0,
+    "unidadesPorPaquete": 4,
+    "precioCompra": 0.52,
+    "precioVenta": 0.65,
     "sabores": []
   },
   {
@@ -94,7 +94,7 @@
     "tipo": "Clasico",
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.50,
+    "precioCompra": 0.51,
     "precioVenta": 0.65,
     "sabores": []
   },
@@ -103,8 +103,8 @@
     "tipo": "Crocante",
     "producto": "Zoek",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.54,
-    "precioVenta": 0.702,
+    "precioCompra": 0.56,
+    "precioVenta": 0.71,
     "sabores": []
   },
   {
@@ -112,7 +112,7 @@
     "tipo": "",
     "producto": "Peppi",
     "unidadesPorPaquete": 5,
-    "precioCompra": 0.50,
+    "precioCompra": 0.51,
     "precioVenta": 0.65,
     "sabores": []
   },
