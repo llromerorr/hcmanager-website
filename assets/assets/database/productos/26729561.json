@@ -269,6 +269,17 @@
   },
   {
     "categoria": "Recipientes",
+    "tipo": "Berry Mix",
+    "producto": "4.4 Litros",
+    "unidadesPorPaquete": 1,
+    "precioCompra": 10.73,
+    "precioVenta": 12.00,
+    "sabores": [
+      "Berry Mix"
+    ]
+  },
+  {
+    "categoria": "Recipientes",
     "tipo": "Extra",
     "producto": "4.4 Litros",
     "unidadesPorPaquete": 1,
